@@ -175,10 +175,3 @@ OWASP Top 10
 STRIDE Threat Modeling
 
 NIST Cybersecurity Framework
-
-📞 Contact
-For questions or contributions:
-
-Security Team: security@example.com
-
-Repository Maintainers: maintainers@example.com
